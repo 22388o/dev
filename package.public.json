@@ -1,5 +1,5 @@
 {
-  "name": "liquity",
+  "name": "susd",
   "private": true,
   "workspaces": {
     "packages": ["packages/*"],
