@@ -108,5 +108,5 @@
     "semantic-release": "^17.4.2",
     "semantic-release-monorepo": "^7.0.4"
   },
-  "packageManager": "yarn@3.5.1"
+  "packageManager": "yarn@3.8.7"
 }
